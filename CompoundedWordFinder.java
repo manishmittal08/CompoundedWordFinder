@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.*;manish
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class CompoundWordFinder {
